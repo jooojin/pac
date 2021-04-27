@@ -1,4 +1,4 @@
-function FindProxyForURL( url, host ) {
+function FindProxyForURL(url, host) {
     // No proxy by default.
     var ProxyConfig = "DIRECT";
 
